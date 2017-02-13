@@ -7,8 +7,7 @@ set gson=2.8.0
 set okhttp=3.5.0
 set okio=1.11.0
 set springboot=1.4.2.RELEASE
-set junitDep=compile 'junit:junit:${junit}'
-
+set junitDep=compile 'junit:junit:${junit}'11111%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥
 #plugins versions
 #set maven-publish=nebula.maven-publish' version '4.9.1
 set maven-publish=maven-publish
